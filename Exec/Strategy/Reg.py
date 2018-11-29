@@ -11,7 +11,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn
 from Acc import *
-from Strategy import *
+from Strategy_2 import *
 
 
 pd.set_option('display.max_columns', None)
@@ -28,14 +28,15 @@ def get_data():
 
 def run_strategy():
     #moving average strategy
-    strategy = Strategy()
+    strategy = Strategy_2()
+    strategy.handle_data()
     # get buy sell dataframe
-    bs_df = strategy.handle_data()
+    # bs_df = strategy.handle_data()
 
-    bs_df[['return_cum', 'strategy_return_cum']].dropna().plot(title='moving average', style=['--', '-'])
-    plt.xticks(rotation=90)
-    plt.legend()
-    plt.show()
+    # bs_df[['return_cum', 'strategy_return_cum']].dropna().plot(title='moving average', style=['--', '-'])
+    # plt.xticks(rotation=90)
+    # plt.legend()
+    # plt.show()
 
 
 def do_buy_sell(bs_df):

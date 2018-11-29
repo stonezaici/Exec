@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47b2873b-73e3-4982-8646-36445dc7ab3c" name="Default" comment="" />
+    <list default="true" id="47b2873b-73e3-4982-8646-36445dc7ab3c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Multitask/generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strategy/Reg.py" beforeDir="false" afterPath="$PROJECT_DIR$/Strategy/Reg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strategy/res.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Strategy/res.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strategy/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Strategy/test.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +65,43 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-931103539">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.30" value="2" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.34" value="2" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="948" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="948" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="10" />
+          <entry key="py" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="Python" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -74,8 +117,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Strategy/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="12" column="72" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="72" />
+            <state relative-caret-position="408">
+              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
               <folding>
                 <element signature="e#163#183#0" expanded="true" />
               </folding>
@@ -86,14 +129,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Strategy/Reg.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+            <state relative-caret-position="168">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="e#163#182#0" expanded="true" />
-                <marker date="1541943303135" expanded="true" signature="400:502" ph="..." />
-                <marker date="1541943303135" expanded="true" signature="835:847" ph="..." />
-                <marker date="1541943303135" expanded="true" signature="858:879" ph="..." />
+                <marker date="1542844712565" expanded="true" signature="402:504" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Multitask/generator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <marker date="1543450526579" expanded="true" signature="188:193" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Strategy/stock_basic.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Strategy/res.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -101,8 +168,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Strategy/Strategy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+            <state relative-caret-position="528">
+              <caret line="24" column="82" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="82" />
               <folding>
                 <element signature="e#168#186#0" expanded="true" />
               </folding>
@@ -110,11 +177,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Strategy/Strategy_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Strategy/Acc.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            <state relative-caret-position="648">
+              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
               <folding>
                 <marker date="1541917575490" expanded="true" signature="250:309" ph="..." />
                 <marker date="1541917575490" expanded="true" signature="369:378" ph="..." />
@@ -131,6 +207,10 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -169,18 +249,23 @@
         <option value="$PROJECT_DIR$/Strategy/Account.py" />
         <option value="$PROJECT_DIR$/Strategy/回测.py" />
         <option value="$PROJECT_DIR$/com/quant/stonezaici/matplotlib_exec.py" />
-        <option value="$PROJECT_DIR$/Strategy/test.py" />
         <option value="$PROJECT_DIR$/Strategy/Strategy.py" />
         <option value="$PROJECT_DIR$/Strategy/Reg.py" />
+        <option value="$PROJECT_DIR$/Strategy/res_1.csv" />
+        <option value="$PROJECT_DIR$/Strategy/res.csv" />
+        <option value="$PROJECT_DIR$/Strategy/Strategy_2.py" />
+        <option value="$PROJECT_DIR$/Strategy/test.py" />
+        <option value="$PROJECT_DIR$/Multitask/generator.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1592" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1793" />
+    <option name="y" value="-10" />
     <option name="width" value="1616" />
-    <option name="height" value="916" />
+    <option name="height" value="885" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -196,7 +281,7 @@
             <path>
               <item name="Exec" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exec" type="462c0819:PsiDirectoryNode" />
-              <item name="Strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="Multitask" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -206,7 +291,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -218,15 +303,16 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Git_Code\Quant_Strategy\Exec\Strategy" />
+      <recent name="C:\Users\Thinkpad\PycharmProjects\Exec\com\quant\stonezaici\data" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Thinkpad\PycharmProjects\Exec\com\quant\stonezaici" />
       <recent name="C:\Users\Thinkpad\PycharmProjects\Exec" />
       <recent name="C:\Users\Thinkpad\PycharmProjects\Exec\com" />
       <recent name="C:\Users\Thinkpad\PycharmProjects\Exec\com\quant\PlanWar" />
       <recent name="C:\Users\Thinkpad\PycharmProjects\Exec\com\quant" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Thinkpad\PycharmProjects\Exec\com\quant\stonezaici\data" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -241,7 +327,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Reg">
+  <component name="RunManager" selected="Python.generator">
     <configuration name="Reg" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Exec" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -284,7 +370,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="matplotlib_exec" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Strategy_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Exec" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -292,11 +378,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/quant/stonezaici" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Strategy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/quant/stonezaici/matplotlib_exec.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strategy/Strategy_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -305,7 +391,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rebalance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Exec" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -313,11 +399,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/quant/stonezaici" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Multitask" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/quant/stonezaici/rebalance.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Multitask/generator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -348,19 +434,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.rebalance" />
-      <item itemvalue="Python.matplotlib_exec" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.Reg" />
       <item itemvalue="Python.Strategy" />
+      <item itemvalue="Python.Strategy_2" />
+      <item itemvalue="Python.generator" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Reg" />
+        <item itemvalue="Python.generator" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.Reg" />
+        <item itemvalue="Python.Strategy_2" />
         <item itemvalue="Python.Strategy" />
-        <item itemvalue="Python.matplotlib_exec" />
-        <item itemvalue="Python.rebalance" />
       </list>
     </recent_temporary>
   </component>
@@ -381,20 +467,20 @@
     <frame x="1592" y="-8" width="1616" height="916" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19518378" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11660329" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38825032" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39974457" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49936628" weight="0.3286445" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39897698" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="8" weight="0.32934928" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.3286445" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5006337" side_tool="true" weight="0.4641944" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -623,9 +709,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Strategy/res.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/com/quant/stonezaici/rebalance.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
@@ -640,44 +723,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-          <folding>
-            <element signature="e#161#180#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Strategy/Strategy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-          <folding>
-            <element signature="e#168#186#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strategy/Reg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
-          <folding>
-            <element signature="e#163#182#0" expanded="true" />
-            <marker date="1541943303135" expanded="true" signature="400:502" ph="..." />
-            <marker date="1541943303135" expanded="true" signature="835:847" ph="..." />
-            <marker date="1541943303135" expanded="true" signature="858:879" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strategy/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="12" column="72" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="72" />
-          <folding>
-            <element signature="e#163#183#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Strategy/res_1.csv">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/com/quant/stonezaici/双均线.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -686,13 +736,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding>
+            <element signature="e#163#183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/stock_basic.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/res.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/Strategy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="82" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="82" />
+          <folding>
+            <element signature="e#168#186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/Strategy_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Strategy/Acc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        <state relative-caret-position="648">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
           <folding>
             <marker date="1541917575490" expanded="true" signature="250:309" ph="..." />
             <marker date="1541917575490" expanded="true" signature="369:378" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/Reg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#163#182#0" expanded="true" />
+            <marker date="1542844712565" expanded="true" signature="402:504" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Multitask/generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <marker date="1543450526579" expanded="true" signature="188:193" ph="..." />
           </folding>
         </state>
       </provider>
